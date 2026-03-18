@@ -33,4 +33,8 @@ Dashboard completo para acompanhar o Agent IA com base no projeto da Comunidade 
 - Identificação automática de solicitações de suporte
 - Transferência para atendimento humano via Telegram
 - Leitura e interpretação de áudios e imagens enviados pelo cliente
+-Follow-up automático com clientes
 
+
+##  Adaptável para Diversas Empresas
+-podendo ser facilmente adaptado para diferentes segmentos e necessidades de negócio.
